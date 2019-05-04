@@ -1,5 +1,5 @@
 <?php 
-echo "string";
+echo "tuvd";
 echo "longnd";
 echo "hungtd";
  ?>
